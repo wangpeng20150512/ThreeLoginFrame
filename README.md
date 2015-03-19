@@ -12,3 +12,5 @@
     1.需要申请QQ，微信，微博的key来替换ThirdAppKey.java文件里面带XXXXX的内容。
     2.代码调用具体参照ThirdLoginActivity.java类
     
+## 如有问题，详细咨询QQ：254608684
+    
