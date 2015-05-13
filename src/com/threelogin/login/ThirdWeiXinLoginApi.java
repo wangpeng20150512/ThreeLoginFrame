@@ -40,7 +40,7 @@ public class ThirdWeiXinLoginApi {
 		final SendAuth.Req req = new SendAuth.Req();
 		req.scope = ThirdAppKey.WEIXIN_SCOPE;
 		req.state = "none";
-		req.openId = "";
+		//req.openId = "";
 		mWXAPI.sendReq(req);
 	}
 
